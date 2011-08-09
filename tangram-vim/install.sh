@@ -7,7 +7,7 @@
 ########################################
 
 CURRENT=$PWD
-VIM_RUNTIME=$HOME"/.vimm"
+VIM_RUNTIME=$HOME"/.vim"
 
 
 # 判断用户的Home目录下是否存在.vim目录
